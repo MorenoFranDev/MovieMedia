@@ -1,0 +1,32 @@
+@url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
+
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    box-sizing: border-box;
+}
+html{
+    background-color: #000411;
+    color: white;
+}
+
+#root{
+    padding: 1rem 0;
+    width: 1300px;
+    margin: auto;
+}
+
+
+::-webkit-scrollbar{
+    width: 12px;
+    background-color: #242038;
+}
+::-webkit-scrollbar-track{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.9);
+    border-radius: 10px;
+    background-color: #242038;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: #F90;
+    background-image: -webkit-linear-gradient(90deg,transparent,rgba(0, 0, 0, 0.4) 50%,transparent,transparent)
+}

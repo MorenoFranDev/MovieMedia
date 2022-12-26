@@ -1,0 +1,65 @@
+.poster{
+    display: flex;
+    border-radius: .5rem;
+    box-shadow: 3px 3px 15px #AEB7B3;
+    background-color: #242038;
+    padding: 2.5rem 1.5rem 0;
+    border: 1px solid orange;
+}
+
+.title{
+    text-align: center;
+    font-size: 2.2rem;
+}
+
+.Body{
+    padding: 0 1rem;
+    margin: 0 auto;
+}
+
+.description{
+    font-size: 18px;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+
+}
+span{
+    padding: .5rem .5rem;
+}
+span:hover{
+border-radius: .2rem;
+    box-shadow: 3px 3px 15px #AEB7B3;
+}
+
+.details{
+    padding: 2rem 0 1.2rem;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.actors{
+justify-items:center ;
+    text-align: center;
+    width: 52rem;
+    overflow-x: scroll;
+    display: inline-flex;
+    padding: 1rem 0;
+}
+
+.cardperson{
+    border-radius: .3rem;
+    height: 300px;
+    margin: 0 .5rem;
+    box-shadow: 3px 3px 15px #818181;
+
+}
+
+.Site{
+    padding: 4rem 0 0;
+    text-align: center;
+}
+
