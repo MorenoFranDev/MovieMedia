@@ -6,6 +6,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<MainPage />} />
+        <Route path="/search/:query" element={<MainPage />} />
         <Route path="/movie/:id" element={<Movie  />} />
       </Routes>
     </BrowserRouter>

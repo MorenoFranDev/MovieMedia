@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { getMovie, getElenc } from "../services/axiosQuery";
 import { CharactersCard } from "../components/CharactersCard";
 import style from './style.movie.css'
+import Navbar from "../components/Navbar";
 
 export default function Movie() {
   const [movie, setMovie] = useState(null);
@@ -19,6 +20,8 @@ export default function Movie() {
   const ImgPoster = "https://image.tmdb.org/t/p/w400" + movie.poster_path;
 
   return (
+    <>
+    <Navbar />
     <div className="poster" >
       <div className="Img">
         <img src={ImgPoster} />
@@ -47,5 +50,6 @@ export default function Movie() {
         </p>
       </div>
     </div>
+    </>
   );
 }

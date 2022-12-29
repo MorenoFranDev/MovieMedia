@@ -5,7 +5,7 @@ export function Card({ movie }) {
 
     return <div className="CardMovie">
         <div className="CardImg">
-            <Link to={"movie/"+movie.id}><img src={IMG} alt="MDN" /></Link>
+            <Link to={"/movie/"+movie.id}><img src={IMG} alt="MDN" /></Link>
         </div>
         <div className="CardTitle">
             <h3>{movie.title}</h3>

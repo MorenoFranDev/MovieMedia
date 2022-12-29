@@ -1,0 +1,23 @@
+.Navbar{
+    left: 0;right: 0;
+    top: 0;
+    position: absolute;
+    align-items: center;
+    background-color: #000209;
+    justify-content: space-between;
+    display: flex;
+    padding: 0 2.5rem;
+    font-size: 25px;
+}
+
+input{
+    padding: .5rem ;
+}
+
+button{
+    border: 1px solid white;
+    background-color: #000209;
+    color: white;
+    border-radius: 50%;
+padding: .9rem;
+}

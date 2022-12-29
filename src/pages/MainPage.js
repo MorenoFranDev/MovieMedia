@@ -1,18 +1,33 @@
-import { useEffect, useState } from "react"
-import {allMovies} from '../services/axiosQuery'
-import {Card }from '../components/Card'
+import { useEffect, useState } from "react";
+import { allMovies, findMovies } from "../services/axiosQuery";
+import { Card } from "../components/Card";
+import Navbar from "../components/Navbar";
+import { useParams } from "react-router-dom";
+import style from './style.main.css'
 
 export function MainPage() {
-const [movies,setMovie] = useState([]);
+  const [movies, setMovie] = useState([]);
+  let { query } = useParams();
+  useEffect(() => {
+    if (query === undefined) {
+      allMovies().then((resp) => {
+        setMovie(resp.data.results);
+      });
+    } else {
+      findMovies(query).then((resp) => {
+        setMovie(resp.data.results);
+      });
+    }
+  }, [query]);
 
-useEffect(()=>{
-    allMovies().then(resp =>{setMovie(resp.data.results)}).catch(console.error("Error de api"))
-},[])
-
-return <div className="GridMovies">
-    {movies.map(movie=>(
-        <Card movie={movie} key={movie.id}/>
-    ))}
-</div>
-
+  return (
+    <>
+      <Navbar />
+      <div className="gridMovies">
+        {movies.map((movie) => (
+          <Card movie={movie} key={movie.id} />
+        ))}
+      </div>
+    </>
+  );
 }

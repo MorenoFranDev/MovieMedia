@@ -14,3 +14,8 @@ export const getElenc = async(id)=>{
     const resp = await axios.get(`http://api.themoviedb.org/3/movie/${id}/casts?api_key=8bc22c3636a1f17771d2dc4a5d6f8166`)
 return resp
 }
+
+export const findMovies = async(query)=>{
+    const resp = axios.get(`https://api.themoviedb.org/3/search/movie?api_key=8bc22c3636a1f17771d2dc4a5d6f8166&query=${query}`)
+    return resp
+}
