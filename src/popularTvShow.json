@@ -1,0 +1,404 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+            "first_air_date": "1952-12-26",
+            "genre_ids": [
+                10763
+            ],
+            "id": 94722,
+            "name": "Tagesschau",
+            "origin_country": [
+                "DE"
+            ],
+            "original_language": "de",
+            "original_name": "Tagesschau",
+            "overview": "German daily news program, the oldest still existing program on German television.",
+            "popularity": 3393.157,
+            "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+            "vote_average": 7.1,
+            "vote_count": 169
+        },
+        {
+            "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+            "first_air_date": "2023-01-09",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 218145,
+            "name": "Mom for rent",
+            "origin_country": [
+                "SK"
+            ],
+            "original_language": "sk",
+            "original_name": "Mama na prenájom",
+            "overview": "Abandoned by his wife, Martin is lying to his daughter not to be upset. But as Hanka grows, these lies become unbearable. Martin meets Nada unexpectedly, asked her to be a rent-a-mother and all lives are completely changed.",
+            "popularity": 1166.132,
+            "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+            "vote_average": 5.8,
+            "vote_count": 15
+        },
+        {
+            "backdrop_path": "/218ZehBKlH8efPRRccmB7bu0oLQ.jpg",
+            "first_air_date": "2023-09-25",
+            "genre_ids": [
+                35,
+                9648,
+                10766,
+                18
+            ],
+            "id": 219109,
+            "name": "Elas por Elas",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Elas por Elas",
+            "overview": "Seven friends who met in their youth at an English course meet again 25 years later; Lara, Taís, Helena, Adriana, Renée, Natália and Carol, each of them has a different personality and origin, but they share a deep affection.",
+            "popularity": 1888.85,
+            "poster_path": "/m0cvvnhnRXdQhLARx7qt9lz7hTE.jpg",
+            "vote_average": 6.8,
+            "vote_count": 12
+        },
+        {
+            "backdrop_path": "/yii7eIlaw1MRMfa7FTA6mW8hBUQ.jpg",
+            "first_air_date": "2023-08-14",
+            "genre_ids": [
+                35,
+                10766
+            ],
+            "id": 213026,
+            "name": "Fuzue",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Fuzuê",
+            "overview": "The department store Fuzue, specialized in popular items, is a success led by Nero Braga e Silva. Little does he know that the store's grounds have hidden relics for over 300 years.",
+            "popularity": 1129.548,
+            "poster_path": "/zNNFg8z3z7uT817n6M0kHRcYwq1.jpg",
+            "vote_average": 5.8,
+            "vote_count": 21
+        },
+        {
+            "backdrop_path": "/d9Oa0KJkSO0QWAxCnRNuWUOBnYw.jpg",
+            "first_air_date": "2023-11-03",
+            "genre_ids": [
+                10764
+            ],
+            "id": 238766,
+            "name": "Temptation Island India",
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "hi",
+            "original_name": "Temptation Island India",
+            "overview": "Relationships ka hoga ab ultimate test! Will their love survive the temptations? Watch the biggest and hottest dating reality show in India only on JioCinema!",
+            "popularity": 1770.802,
+            "poster_path": "/lpcg76guqxN9YuKu6795TQaYVOR.jpg",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "backdrop_path": "/69Jblm3seQgiPuPQMrJqg9Nxhaz.jpg",
+            "first_air_date": "2011-01-10",
+            "genre_ids": [
+                10763,
+                10767
+            ],
+            "id": 101463,
+            "name": "Al rojo vivo",
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Al rojo vivo",
+            "overview": "\"Al rojo vivo\" is a program on laSexta focused on the analysis and debate of national and international political current affairs. The format is hosted and directed by Antonio García Ferreras and produced by the News Services of laSexta.",
+            "popularity": 960.388,
+            "poster_path": "/ag6PmoBxkF2s1uY3An618NCEt3g.jpg",
+            "vote_average": 3.4,
+            "vote_count": 22
+        },
+        {
+            "backdrop_path": "/vW16JyrWiB1cW9wWzxhmjVHoqwJ.jpg",
+            "first_air_date": "2023-03-13",
+            "genre_ids": [
+                10766
+            ],
+            "id": 217510,
+            "name": "Queridos Papás",
+            "origin_country": [
+                "PT"
+            ],
+            "original_language": "pt",
+            "original_name": "Queridos Papás",
+            "overview": "",
+            "popularity": 928.624,
+            "poster_path": "/m1aGGAPvLpWF5cGhkQeZjbpu2nr.jpg",
+            "vote_average": 4,
+            "vote_count": 4
+        },
+        {
+            "backdrop_path": "/2GflJk6Hm1L3FFVWIvnuOskDFGv.jpg",
+            "first_air_date": "2023-08-28",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 226773,
+            "name": "Senior High",
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Senior High",
+            "overview": "A student’s death causes a scandal at the prestigious Northford High. Investigations conclude it was a suicide. The victim’s twin sister thinks otherwise. As she searches for truth, she will unravel secrets that are far more shocking and dangerous.",
+            "popularity": 900.227,
+            "poster_path": "/k285iD6gZIoLsVSczSjc4WIXkdc.jpg",
+            "vote_average": 8.7,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/9TXcHOeCsM8W3ZKKIKjdYUsRSeq.jpg",
+            "first_air_date": "2017-07-17",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 72879,
+            "name": "Tomorrow is Ours",
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Demain nous appartient",
+            "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+            "popularity": 878.656,
+            "poster_path": "/3uU5uJzOX7xe7mn7YKpBM9oiEZO.jpg",
+            "vote_average": 6.2,
+            "vote_count": 45
+        },
+        {
+            "backdrop_path": "/90mos0fF45nFSbuCTY0NNmS107T.jpg",
+            "first_air_date": "2023-11-16",
+            "genre_ids": [
+                18,
+                10765,
+                10759
+            ],
+            "id": 202411,
+            "name": "Monarch: Legacy of Monsters",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Monarch: Legacy of Monsters",
+            "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+            "popularity": 1446.783,
+            "poster_path": "/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
+            "vote_average": 8.5,
+            "vote_count": 147
+        },
+        {
+            "backdrop_path": "/rj3jBAZwPiOgkwAy1205MAgLahj.jpg",
+            "first_air_date": "2018-08-27",
+            "genre_ids": [
+                10766
+            ],
+            "id": 81329,
+            "name": "Chronicles of the Sun",
+            "origin_country": [
+                "FR"
+            ],
+            "original_language": "fr",
+            "original_name": "Un si grand soleil",
+            "overview": "",
+            "popularity": 862.648,
+            "poster_path": "/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+            "vote_average": 7.4,
+            "vote_count": 52
+        },
+        {
+            "backdrop_path": "/eWF3oRyL4QWaidN9F4uvM7cBJUV.jpg",
+            "first_air_date": "2005-10-13",
+            "genre_ids": [
+                10766
+            ],
+            "id": 206559,
+            "name": "Binnelanders",
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Binnelanders",
+            "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+            "popularity": 849.895,
+            "poster_path": "/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg",
+            "vote_average": 5.2,
+            "vote_count": 17
+        },
+        {
+            "backdrop_path": "/zKBkTNmsNdUjkW4mBBDEh1WwBPP.jpg",
+            "first_air_date": "2023-08-07",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 229947,
+            "name": "The Elegant Empire",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "우아한 제국",
+            "overview": "A man and a woman take revenge desperately yet elegantly after being trampled on by enormous power.",
+            "popularity": 840.248,
+            "poster_path": "/w4HHWY2sZrwPvvA9qy4dpYPSVPp.jpg",
+            "vote_average": 9,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/hwUQsL1cWt0bmbTxzCompqqvTH9.jpg",
+            "first_air_date": "2004-01-22",
+            "genre_ids": [
+                10764
+            ],
+            "id": 82250,
+            "name": "Gran hermano VIP",
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Gran hermano VIP",
+            "overview": "",
+            "popularity": 1896.01,
+            "poster_path": "/9269PATr0bmEXKjkpR88mzGmNYI.jpg",
+            "vote_average": 3.8,
+            "vote_count": 11
+        },
+        {
+            "backdrop_path": "/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg",
+            "first_air_date": "2013-12-02",
+            "genre_ids": [
+                16,
+                35,
+                10765,
+                10759
+            ],
+            "id": 60625,
+            "name": "Rick and Morty",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Rick and Morty",
+            "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+            "popularity": 1304.089,
+            "poster_path": "/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+            "vote_average": 8.7,
+            "vote_count": 8808
+        },
+        {
+            "backdrop_path": "/ohJTnu93hJ0Uonl86Wn3mOSlWXN.jpg",
+            "first_air_date": "2017-02-06",
+            "genre_ids": [
+                10751,
+                35,
+                18
+            ],
+            "id": 91759,
+            "name": "Come Home Love: Lo and Behold",
+            "origin_country": [
+                "HK"
+            ],
+            "original_language": "cn",
+            "original_name": "愛·回家之開心速遞",
+            "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+            "popularity": 1268.963,
+            "poster_path": "/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+            "vote_average": 5,
+            "vote_count": 32
+        },
+        {
+            "backdrop_path": null,
+            "first_air_date": "2005-09-05",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 36361,
+            "name": "Ulice",
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Ulice",
+            "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+            "popularity": 767.096,
+            "poster_path": "/3ayWL13P1HeRnyVL9lU9flOdZjq.jpg",
+            "vote_average": 2.5,
+            "vote_count": 16
+        },
+        {
+            "backdrop_path": "/aWPhMZ0P2DyfWB7k5NXhGHSZHGC.jpg",
+            "first_air_date": "2023-05-08",
+            "genre_ids": [
+                18,
+                80,
+                10766
+            ],
+            "id": 209265,
+            "name": "Land of Desire",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Terra e Paixão",
+            "overview": "When her husband is killed in a land grabbing attempt, Aline takes charge of cultivating his land and protecting his family. Facing the powerful Antonio La Selva, responsible for the death of her husband and the largest landowner in the region, Aline is determined to keep possession of her land and invest in its production. However, she didn't expect that she would fall in love with Daniel, son of her rival, who is at odds with his rebellious half-brother, Caio, who, in turn, also falls in love with the girl. In the interior of Brazil, Aline will have to fight two battles: the dispute for her lands and for her heart.",
+            "popularity": 1251.233,
+            "poster_path": "/33HrrOZQKRp7W3dNXPmKB0udA2m.jpg",
+            "vote_average": 6.5,
+            "vote_count": 124
+        },
+        {
+            "backdrop_path": "/vr9XxmNdY47U1FnxO2We3hXr6Kz.jpg",
+            "first_air_date": "2023-10-09",
+            "genre_ids": [],
+            "id": 236921,
+            "name": "Vuelve a mí",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "es",
+            "original_name": "Vuelve a mí",
+            "overview": "",
+            "popularity": 747.338,
+            "poster_path": "/sGgYl7voI8T34azn5biA0MRpG3c.jpg",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "backdrop_path": "/i8iqYtAy9qcO5RSrA1f6fY1n6SN.jpg",
+            "first_air_date": "2015-11-16",
+            "genre_ids": [
+                10766
+            ],
+            "id": 235484,
+            "name": "Suidooster",
+            "origin_country": [
+                "ZA"
+            ],
+            "original_language": "af",
+            "original_name": "Suidooster",
+            "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+            "popularity": 719.15,
+            "poster_path": "/u4tPY6df9atOne5soyW7vUyRgvD.jpg",
+            "vote_average": 8,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 7990,
+    "total_results": 159797
+}

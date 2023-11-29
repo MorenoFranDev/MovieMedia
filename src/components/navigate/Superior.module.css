@@ -1,0 +1,63 @@
+.navigator{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.formfind{
+    display: flex;
+    margin: auto;
+}
+
+.formfind > input{
+    border: 1px solid white;
+    padding: .5rem .5rem;
+    width: 20rem;
+    color: white;
+    background-color: #10141F;
+    border-radius: .5rem 0 0 .5rem;
+}
+
+.button{
+    border: 1px solid white;
+    padding: .5rem 1rem;
+    border-radius: 0 .5rem .5rem 0;
+    font-weight: 800;
+    cursor: pointer;
+    background-color: #F09D51;
+}
+
+.button:hover{
+    background-color: #F06543
+}
+
+.divgenres{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin: 1rem 0 ;
+    list-style: none;
+}
+
+.list{
+    top: 45px;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+
+.item{
+    color: #313638;
+    font-weight: 800;
+    border-radius: .2rem;
+    background-color: #F09D51;
+    padding: .5rem;
+    margin: .1rem;
+    display: inline-block;
+
+}
+
+.item:hover{
+    background-color: #F06543;
+}

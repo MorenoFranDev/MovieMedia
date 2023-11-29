@@ -1,0 +1,131 @@
+/* POPULAR AREA */
+
+.card_popular{
+    text-align: center;
+    font-weight: 800;
+    color: white;
+    width: 320px;
+    height: 15rem;
+    padding: .5rem;
+}
+
+
+.title_popular{
+    color: white;
+    font-weight: 800;
+    font-size: 18px;
+    height: 3rem;
+}
+
+.card_popular:hover{
+    background-color: rgba(0,0,0,.7);
+}
+
+/* BANNER AREA */
+
+.card_banner{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: .5rem auto;
+    width: 190px;
+    height: 320px;
+}
+
+.card_banner:hover{
+    background-color: rgba(0, 0, 0, .7);
+}
+.title_banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 2rem;
+    font-size: 16px;
+    font-weight: 800;
+    color: white;
+}
+
+.body_card_banner{
+    position: relative;
+    display: inline-block;
+}
+
+
+/* MOVIE DETAIL */
+
+.overview{
+    width: 190px;
+    height: 285px;
+    overflow: hidden;
+
+}
+
+.text{
+    background-color: rgba(0,0,0,.7);
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.detail_movie_card{
+    padding: 4rem;
+    margin: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner{
+    padding: 2rem 0;
+    display: flex;
+    gap: 1rem;
+}
+
+
+.banner_body{
+    padding: 2rem 2rem;
+    font-size: 18px;
+    color: white;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+.poster_img{
+    width: 342px;
+}
+
+.casting{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    height: 25rem; 
+    align-items: center;
+    gap: .5rem;
+    overflow-x: hidden;
+}
+
+.genres{
+    padding: 1rem 0;
+    display: flex; 
+    align-items: center;
+    gap: .5rem;
+}
+
+.genre{
+    cursor: pointer;
+    color: white;
+    border-radius: .5rem;
+    padding: .2rem 1rem;
+    background-color: #101414;
+}
+
+.seanson{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    font-size: 16px;
+    font-weight: 800;
+    overflow-x: scroll;
+}

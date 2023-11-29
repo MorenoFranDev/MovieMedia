@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-height: 90vh;
+    background-color: #0D0D0D;
+    padding: 1rem .5rem;
+    border-radius: 0  0 .5rem .5rem;
+    margin: 1rem 1rem;
+    font-size: 40px;
+}
+
+.movie{
+    color: #c93159;
+}
+
+.menu{
+    gap: 1rem;
+    color: #899B9F;
+    display: flex;
+    flex-direction: column;
+}
+
+.icon{
+    color: #899B9F;
+}
+
+.logo{
+    width: 2rem;
+    height: 2rem;
+}
+
+.logo_img{
+    align-items: center;
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
